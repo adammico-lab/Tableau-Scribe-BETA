@@ -1,6 +1,6 @@
 # Tableau Scribe
 
-**Auto-documentation and metric dictionary engine for Tableau, powered by MCP.**
+**Auto-documentation and metric dictionary engine for Tableau, powered by MCP. v1.0**
 
 Tableau Scribe connects to your Tableau Cloud or Server environment via the [Tableau MCP](https://github.com/tableau/tableau-mcp) and generates polished, audience-ready documentation from live views and datasources — no screenshots, no manual data entry, no copy-paste.
 
